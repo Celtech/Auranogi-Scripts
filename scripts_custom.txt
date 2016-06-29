@@ -1,0 +1,8 @@
+// Aura
+// Script list file
+//
+// Example of loading an additional custom NPC.
+//---------------------------------------------------------------------------
+
+NPCCardShop.cs
+NPCDyeShop.cs
